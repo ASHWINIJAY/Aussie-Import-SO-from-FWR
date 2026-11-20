@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Import_PO_SysproQueryService_queryclass" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://stock2shop.aussietraveller.com.au/SYSPROWebServices/query.asmx</Value>
+    </Setting>9999999
+    <Setting Name="Import_PO_SysproTransService_transactionclass" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://stock2shop.aussietraveller.com.au/SYSPROWebServices/transaction.asmx</Value>
+    </Setting>
+    <Setting Name="Import_PO_SysproUtilitiesService_utilitiesclass" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://stock2shop.aussietraveller.com.au/SYSPROWebServices/utilities.asmx</Value>
+    </Setting>
+    <Setting Name="Import_PO_SysproSetupService_setupclass" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://stock2shop.aussietraveller.com.au/SYSPROWebServices/setup.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
